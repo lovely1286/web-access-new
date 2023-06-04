@@ -20,7 +20,7 @@ Inside the index.html and the style.css there are comments explaining the change
 
  Below is the screenshot of the website.
 
- [a relative link](./assets/images/Sreenshot2.png)
+ [a relative link](./Sreenshot2.png)
 
 ## Credits
 
